@@ -1,9 +1,8 @@
-# GitHub de Hikuikuma (Lionel A.)
+# Welcome
 
+A young self-taught developer since 2004 for fun, I decided in 2024 to professionalize myself in the field by certifying myself with OpenClassrooms[^1] as part of a professional reconversion.
 
-## Parcours Développeur WordPress chez OpenClassrooms
-- Projet 2 : Riding Cities
-- Projet 3 : Booki
-- Projet 4 : Simpl Vintage
-- Projet 5 : The Artbox
-- Projet 6 : Planty
+## Projects
+- [OpenClassrooms course projects](openclassrooms/README.md)
+
+[^1]: [OpenClassrooms](https://openclassrooms.com/en/paths/901-developpeur-wordpress)
