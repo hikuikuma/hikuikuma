@@ -8,3 +8,8 @@ In 2024, as part of a professional reconversion, I decided to become certified i
 - Project 4 : Simpl Vintage
 - [Project 5 : The Artbox](https://github.com/hikuikuma/oc-devWP-P5)
 - [Project 6 : Planty](https://github.com/hikuikuma/oc-devWP-P6)
+- Project 7 : Chic Dressing
+- [Project 8 : Print-It](https://github.com/hikuikuma/oc-devWP-P8)
+- [Project 9 : Koukai](https://github.com/hikuikuma/oc-devWP-P9)
+- Project 10 : MedIT
+- [Project 11 : Nathalie Mota](https://github.com/hikuikuma/oc-devWP-P11)
